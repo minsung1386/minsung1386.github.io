@@ -1,6 +1,4 @@
-<!-- # [Paper review] Addressing Delayed Feedback for Continuous Training with Nerual Networks in CTR predictions
- -->
- ---
+---
 title: "[논문 리뷰] Addressing Delayed Feedback for Continuous Training with Nerual Networks in CTR predictions"
 date: 2023-04-06
 categories:
@@ -65,6 +63,7 @@ Importance sampling 은 fake negative 가 포함된 distribution 으로부터 ac
     <img src="\assets\images\20230406-figure4.png" width="45%" height="100%">
 </div>
 <br>
+
 2. Wide-and-deep model 
 <div>
     <img src="\assets\images\20230406-figure5.png" width="45%" height="100%">
