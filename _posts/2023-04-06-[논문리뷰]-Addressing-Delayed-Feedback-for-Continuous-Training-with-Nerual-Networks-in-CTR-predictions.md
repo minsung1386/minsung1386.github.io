@@ -1,5 +1,15 @@
 <!-- # [Paper review] Addressing Delayed Feedback for Continuous Training with Nerual Networks in CTR predictions
  -->
+ ---
+title: "[논문 리뷰] Addressing Delayed Feedback for Continuous Training with Nerual Networks in CTR predictions"
+date: 2023-04-06
+categories:
+  - ML
+  - Paper review
+  - RecSys
+tags:
+---
+
 
 twitter 에서 발표한 ACM Recsys 2019 [논문](https://arxiv.org/abs/1907.06558) 에 대한 리뷰
 
