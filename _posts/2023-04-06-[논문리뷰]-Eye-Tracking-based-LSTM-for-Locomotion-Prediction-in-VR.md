@@ -31,9 +31,9 @@ __Redirected Walking으로 얻는 이점__
 
 * Curvature gains : 가상 공간을 조금씩 회전시켜 실제 공간에서 직선으로 움직이면 가상 공간에서는 곡선으로 움직이게 만드는 효과 (그림 1) $\rightarrow$ 실제로 곡선으로 움직이는데 가상 공간에서 직선으로 움직이는 효과와 동일 (그림 2).
 
-<img src="\assets\images\post\Paper-Review-VR\curvature-0.png">
-<img src="\assets\images\post\Paper-Review-VR\curvature-1.png">
-<img src="\assets\images\post\Paper-Review-VR\curvature-2.png">
+<img src="\assets\images\post\Paper-Review-VR\curvature-0.png" width="30%">
+<img src="\assets\images\post\Paper-Review-VR\curvature-1.png" width="30%">
+<img src="\assets\images\post\Paper-Review-VR\curvature-2.png" width="30%">
 
 <br>
 
