@@ -3,14 +3,14 @@ layout: page
 type: about
 ---
 
-## 소개
+## About
 
 * Senior, studying software in Sungkyunkwan Univ.
 
-* Military service in Camp Casey, Republic of Korea (Reserved) 🇰🇷🇺🇸
+* Military service in USAG Yongsan-Casey, Republic of Korea (Reserved) 🇰🇷🇺🇸
 
 ## Interest
-* Web services
+* Web services (Back-End)
 * AI (especially NLP, CV ..)
 
 ## Online judge profile
