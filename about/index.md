@@ -5,14 +5,14 @@ type: about
 
 ## 소개
 
+* Senior, studying software in Sungkyunkwan Univ.
 
+* Military service in Camp Casey, Republic of Korea (Reserved) 🇰🇷🇺🇸
 
-* Studying software in Sungkyunkwan Univ.
+## Interest
+* Web services
+* AI (especially NLP, CV ..)
 
-* Military service in Camp Casey, Republic of Korea (Reserve)
-
-  
-
-### 온라인 저지 프로필
+## Online judge profile
 {% include judge_profile.html boj_id="denfor123" codeforces_id="denfor123" %}
 
