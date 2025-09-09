@@ -11,6 +11,8 @@ type: about
 
 * Served military service as KATUSA in USAG Yongsan-Casey.
 
-## Online judge profile
-{% include judge_profile.html boj_id="denfor123" codeforces_id="denfor123" %}
+## Profile
 
+* [LinkedIn](www.linkedin.com/in/minstardev)
+
+{% include judge_profile.html boj_id="denfor123" %}
