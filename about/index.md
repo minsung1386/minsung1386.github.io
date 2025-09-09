@@ -13,6 +13,6 @@ type: about
 
 ## Profile
 
-* [LinkedIn](www.linkedin.com/in/minstardev)
-
+* <a href="https://www.linkedin.com/in/minstardev" target="blank"> LinkedIn </a>
+ 
 {% include judge_profile.html boj_id="denfor123" %}
